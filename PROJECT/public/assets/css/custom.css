@@ -1,0 +1,54 @@
+.header{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+.header .navbar{
+    margin-top: 10px;
+}
+.header:hover{
+    background-color: #fff;
+}
+.header:hover .navbar ul li{
+    color: black;
+}
+.header:hover .button{
+    background-color: black;
+}
+.header:hover .button a{
+    color: #fff;
+}
+.header .navbar ul li{
+    display: inline-block;
+    margin: 0 5px;
+}
+.header .button{
+    background-color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    width: 120px;
+    border-radius: 20px;
+}
+.header .button a{
+    text-decoration: none;
+    color: #000;
+}
+.footer{
+    background-color: bisque;
+    padding: 0 20px;
+}
+.footer1{
+    margin-top:  10px;
+    padding: 20px 0;
+}
+.footer1 ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.footer2 .bi{
+    margin-right: 300px;
+}
+.footer2 .bi i{
+    margin: 0 10px;
+}
