@@ -14,13 +14,8 @@
     <h1>LARAVEL</h1>
 
     @include('layouts.header')
- 
-
-    
 
     @yield('content')
-
-
 
     @include('layouts.footer')
    
